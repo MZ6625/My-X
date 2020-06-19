@@ -2988,6 +2988,3 @@ function nobyda() {
   }
 };
 ReadCookie();
-×
-拖拽到此处
-图片将完成下载
